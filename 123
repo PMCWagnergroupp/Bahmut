@@ -1,3 +1,11 @@
-tank.move 250
-gun.attack 5
-man.flag 3
+tseloe = 10
+drobnoe = 8.4
+big_netseloe = 0
+stroka = "no"
+tseloe *= 3.5
+print(tseloe)
+big_netseloe = 35.0
+drobnoe -= 1
+print(drobnoe)
+tseloe/drobnoe
+print(tseloe/drobnoe)
